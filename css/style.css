@@ -50,7 +50,7 @@ ul li {
     margin: 6px 0;
 }
 
-form input, form testarea {
+form input, form textarea {
     width: 100%;
     padding: 10px;
     margin-bottom: 12px;
